@@ -1,0 +1,6 @@
+{
+  "name": "Krona Studio — Promotional E-Commerce Landing Page",
+  "description": "Seasonal promotional e-commerce storefront featuring reusable AEM-inspired landing page components, dynamic discount campaigns, responsive product grids, and live layout consistency inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
